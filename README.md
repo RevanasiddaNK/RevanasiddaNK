@@ -48,22 +48,39 @@
 ---
 
 ## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/revanasidda-karigoudar-726a35218" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/revanasidda_nk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/nmrevanasmai6" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
-  </a>
-  <a href="mailto:nmrevanasiddarhbk@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="30" width="40"/>
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/revanasidda-karigoudar-726a35218" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/><br/>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.leetcode.com/revanasidda_nk" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40"/><br/>
+        LeetCode
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/nmrevanasmai6" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40"/><br/>
+        GeeksforGeeks
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:nmrevanasiddarhbk@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40"/><br/>
+        Gmail
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
+
+
 
 
 ## 🚀 Top Projects  
