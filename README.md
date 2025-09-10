@@ -75,7 +75,7 @@ Real-time music player where users vote on songs.
   <a href="https://github.com/RevanasiddaNK/VoteTune" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://vote-tune-demo.vercel.app/" target="_blank">
+  <a href="https://votetune.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -89,7 +89,7 @@ Manage portfolios with secure JWT authentication & real-time stock updates.
   <a href="https://github.com/RevanasiddaNK/EquityTrack" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://equity-track-demo.vercel.app/" target="_blank">
+  <a href="https://equitytrack.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
