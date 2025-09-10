@@ -98,10 +98,10 @@ Manage portfolios with secure JWT authentication & real-time stock updates.
 
 ### 📝 X SENTIMENT ANALYSIS  
 Sentiment analysis on **1.6M+ tweets** using TF-IDF + Naive Bayes + Logistic Regression (VotingClassifier).  
-✅ Achieved **76.6% accuracy** with visualized sentiment trends.  
+Achieved **76.6% accuracy** with visualized sentiment trends.  
 **Tech Stack:** Python, Scikit-learn, Matplotlib, NLP  
 <p>
-  <a href="https://github.com/RevanasiddaNK/X-Sentiment-Analysis" target="_blank">
+  <a href="https://github.com/RevanasiddaNK/Twitter-Sentimental-Analysis" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
